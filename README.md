@@ -2,6 +2,9 @@
 
 > GlitchChat Web Client
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/7158ddc2d9180a78d45e/maintainability)](https://codeclimate.com/github/glitchchat/glitch-web/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/7158ddc2d9180a78d45e/test_coverage)](https://codeclimate.com/github/glitchchat/glitch-web/test_coverage)
+
 ## Build Setup
 
 ``` bash
